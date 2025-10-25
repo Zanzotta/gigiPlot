@@ -16,6 +16,8 @@ gigiPlot <- function(x, y = NULL, type = NULL){
   dat <- tibble(x,y)
   x_name <- names(dat)[1]
   y_name <- names(dat)[2]
+  if(is.null(x_name)==T) x_name <- "x"
+  if(is.null(y_name)==T) y_name <- "y" 
   
   switch (type,
           
@@ -79,5 +81,6 @@ gigiPlot <- function(x, y = NULL, type = NULL){
           
          )
   }
+
 
 
