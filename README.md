@@ -1,5 +1,14 @@
+---
 ### 19 September 2025
-# gigiPlot 
-The gigiPlot function was created to make plotting interactions smoother, similar to R’s basic graphics functions.
-While it’s true that ggplot was built to follow the layered grammar of graphics approach, I believe basic graphics functions, like those in R, could look better when implemented on a ggplot foundation. 
-Reminder, every ggplot object remains fully customizable even after plotting with the default options, so we are not imposing any constraints on customization.
+# gigiPlot: Simplifying Plotting with ggplot2
+
+**gigiPlot** is designed to make plotting interactions smoother, combining the simplicity of **R’s base graphics** with the power of **ggplot2**.
+
+While **ggplot2** is celebrated for its layered grammar of graphics, **gigiPlot** brings the ease of R’s basic plotting functions to the ggplot2 framework. This means you can create plots quickly and intuitively, while still benefiting from ggplot2’s flexibility.
+
+**Key Features:**
+- **Simplicity:** Generate plots with straightforward commands, similar to R’s base graphics.
+- **Customization:** Every ggplot object created with **gigiPlot** remains fully customizable. You’re never locked into default settings—adjust and refine your plots as needed.
+
+**gigiPlot** is all about making plotting easier, without sacrificing the power and flexibility of ggplot2.
+
