@@ -8,7 +8,7 @@ While **ggplot2** is celebrated for its layered grammar of graphics, **gigiPlot*
 
 **Key Features:**
 - **Simplicity:** Generate plots with straightforward commands, similar to R’s base graphics.
-- **Customization:** Every ggplot object created with **gigiPlot** remains fully customizable. You’re never locked into default settings—adjust and refine your plots as needed.
+- **Customization:** Every ggplot object created with **gigiPlot** remains fully customizable. You’re never locked into default settings adjust and refine your plots as needed.
 
 **gigiPlot** is all about making plotting easier, without sacrificing the power and flexibility of ggplot2.
 
